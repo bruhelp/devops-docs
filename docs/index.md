@@ -12,5 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://bruhelp.github.io/devops-docs/`.
-
-[Страница с ошибкой](missing-page.md)
